@@ -1,3 +1,22 @@
+# Descrição do Projeto
+
+Projeto para processo de seleção da empresa [CONCEPTU](https://www.conceptu.ind.br/).
+
+Consumir uma API de cervejas e lista-las em uma página usando o React e\
+criar uma página que mostra os detalhes relevantes sobre uma cerveja que foi clicada.
+
+## Tecnologias 
+
+[ReactJS](https://pt-br.reactjs.org/)\
+[Styled Components](https://styled-components.com/)\
+[React-Router-Dom](https://reactrouter.com/)
+
+## Inicializando o projeto
+
+Instale o [Node.js](https://nodejs.org/en/)\
+Após clonar o repositório use o comando `yarn` ou `npm i` para baixar as dependências.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
